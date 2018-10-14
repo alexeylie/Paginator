@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Paginator">
+        <attr name="dotNormalColor" format="color" />
+        <attr name="dotSelectColor" format="color" />
+        <attr name="dotSize" format="dimension" />
+        <attr name="dotSelectSize" format="dimension" />
+        <attr name="dotSpace" format="dimension" />
+        <attr name="visibleDotCount" format="integer" />
+        <attr name="minVisibleDotCount" format="integer" />
+    </declare-styleable>
+</resources>

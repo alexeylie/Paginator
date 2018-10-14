@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">com.alexeyshmakov.paginator.Paginator</string>
+    <string name="items">items</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Paginator">
+        <item name="dotNormalColor">@android:color/darker_gray</item>
+        <item name="dotSelectColor">@android:color/black</item>
+        <item name="dotSize">6dp</item>
+        <item name="dotSelectSize">9dp</item>
+        <item name="dotSpace">8dp</item>
+        <item name="visibleDotCount">5</item>
+        <item name="minVisibleDotCount">2</item>
+    </style>
+</resources>
